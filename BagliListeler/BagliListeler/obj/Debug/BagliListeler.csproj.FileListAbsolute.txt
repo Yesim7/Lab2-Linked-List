@@ -1,0 +1,10 @@
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\bin\Debug\BagliListeler.exe.config
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\bin\Debug\BagliListeler.exe
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\bin\Debug\BagliListeler.pdb
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.csproj.AssemblyReference.cache
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.Form1.resources
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.Properties.Resources.resources
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.csproj.GenerateResource.cache
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.csproj.CoreCompileInputs.cache
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.exe
+C:\Users\murat.ucar\source\repos\BagliListeler\BagliListeler\obj\Debug\BagliListeler.pdb
